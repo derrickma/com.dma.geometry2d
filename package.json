@@ -1,0 +1,10 @@
+﻿{
+    "name": "com.dma.geometry2d",
+    "version": "0.0.1",
+    "displayName": "Dma's Geometry 2D Package",
+    "description": "This is geometry package for 2D shapes",
+    "unity": "2018.1",
+    "author": {
+        "name": "Derrick Ma"
+    }
+}
